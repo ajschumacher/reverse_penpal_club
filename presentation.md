@@ -1,6 +1,5 @@
 # links to pull up as tabs for Hack and Tell presentation
 
- * http://www.blackstudies.ucsb.edu/1968/images/self_determination_button.jpg (T.W.L.F. is "Third World Liberation Front")
  * http://www.mayfair-aesthetics.co.uk/wp-content/uploads/2017/01/spam.jpg
  * http://www.dreams.metroeve.com/wp-content/uploads/2017/07/Junk-Mail-dreams-meaning.jpg
  * https://www.paperkarma.com/ (but no longer free, I think?)
