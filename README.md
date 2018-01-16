@@ -14,6 +14,10 @@ Here's one sender-specific thing:
  * [Bed Bath & Beyond direct mail unsubscribe](https://offers.bedbathandbeyond.com/SignupWidget/dynamic/BBBUS-DM_Unsub)
      * They still warn "This request may take over 90 days to be removed."
 
+Or maybe you would like to get email about your postal mail?
+
+ * [USPS Informed Delivery](https://informeddelivery.usps.com/)
+
 ---
 
 Presented at [DC Hack and Tell](http://dc.hackandtell.org/) on [Tuesday January 16, 2018](https://www.meetup.com/DC-Hack-and-Tell/events/246273544/)

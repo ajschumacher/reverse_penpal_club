@@ -7,6 +7,8 @@
  * https://docs.google.com/spreadsheets/d/1rLpaGpIMqvTNBn9Pa8vJe86Z54wdrgWOeGx96hPi76c/edit
  * https://www.bedbathandbeyond.com/
  * https://github.com/ajschumacher/reverse_penpal_club
+ * https://informeddelivery.usps.com/
+ * show my email maybe?
  * https://github.com/ajschumacher/reverse_penpal_club/blob/master/presentation.md
 
 half-monthly things (does it work?)
